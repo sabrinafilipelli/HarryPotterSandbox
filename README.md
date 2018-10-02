@@ -1,2 +1,0 @@
-# HarryPotterSandbox
-Created with CodeSandbox

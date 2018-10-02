@@ -1,0 +1,12 @@
+.App {
+  font-family: bookman;
+  text-align: center;
+  background: goldenrod;
+
+  color: maroon;
+}
+h1 {
+  color: black;
+  text-decoration: underline;
+  font-family: "Eater", cursive;
+}
